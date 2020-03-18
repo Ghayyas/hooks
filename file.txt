@@ -3,8 +3,6 @@ abcd
 github hookasdfa
 own
 asdfasd
-asdfasdfasdfasd
-f
 
 
 jira
